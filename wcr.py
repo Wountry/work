@@ -4,7 +4,7 @@ Created on Wed Oct 14 10:02:01 2020
 
 @author: lenovo
 """
-
+sdff
 import math
 from matplotlib import pyplot as plt  
 import numpy as np  
